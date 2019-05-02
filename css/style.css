@@ -1,0 +1,32 @@
+body,html
+{
+    width: 100%;
+    height: 100%;
+    margin: 0%;
+}
+/*.branch
+{
+    width: 100%;
+    height: 100%;
+    background-image: url(../images/animal-animal-photography-canidae-45242.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}*/
+.child
+{
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: bottom;
+    filter: grayscale(100%);
+    background-image: url(../images/india.jpeg);
+}
+.wolf
+{
+    height: 100%;
+    width: 100%;
+    background-image: url(../images/india.jpeg);
+    background-size: cover;
+    background-position: bottom;
+    background-attachment: fixed;
+}
